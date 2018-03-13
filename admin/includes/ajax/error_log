@@ -1,0 +1,441 @@
+[06-Mar-2018 06:13:28 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:16:22 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:19:22 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:20:01 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:20:44 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:21:50 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:24:19 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:24:36 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:26:02 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:27:11 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:28:34 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:29:59 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:30:35 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:31:20 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:32:05 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:33:04 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:33:38 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:34:03 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:35:11 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:35:22 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:39:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:40:04 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:40:21 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:40:50 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:42:08 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:46:31 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:47:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:49:01 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:51:42 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:55:47 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:56:31 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:57:06 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:57:33 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:58:35 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:58:52 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:58:59 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:58:59 America/New_York] PHP Warning:  require_once(/home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php../../../includes/classes/news.class.php): failed to open stream: No such file or directory in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php on line 3
+[06-Mar-2018 06:58:59 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php../../../includes/classes/news.class.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php on line 3
+[06-Mar-2018 06:59:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:59:16 America/New_York] PHP Warning:  require_once(/home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php../../../includes/classes/news.class.php): failed to open stream: No such file or directory in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php on line 3
+[06-Mar-2018 06:59:16 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php../../../includes/classes/news.class.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php on line 3
+[06-Mar-2018 06:59:48 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:59:54 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 06:59:59 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:03:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:03:29 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:03:29 America/New_York] PHP Fatal error:  Call to undefined function strstripslashes() in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php on line 7
+[06-Mar-2018 07:04:02 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:04:10 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:04:10 America/New_York] PHP Fatal error:  Call to undefined function strstripslashes() in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php on line 7
+[06-Mar-2018 07:04:14 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:04:14 America/New_York] PHP Fatal error:  Call to undefined function strstripslashes() in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php on line 7
+[06-Mar-2018 07:05:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:05:20 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:05:20 America/New_York] PHP Fatal error:  Call to undefined function strstripslashes() in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php on line 7
+[06-Mar-2018 07:05:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:05:55 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:05:55 America/New_York] PHP Fatal error:  Call to undefined function strstripslashes() in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php on line 7
+[06-Mar-2018 07:06:48 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:06:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:07:54 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:07:57 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:09:11 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:09:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:10:02 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:10:10 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:11:13 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:11:19 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:12:26 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:12:30 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:12:30 America/New_York] PHP Fatal error:  Call to undefined function strstripslashes() in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_news_item.php on line 8
+[06-Mar-2018 07:13:14 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:13:18 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:13:37 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:13:57 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:14:01 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:16:21 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:16:25 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:17:28 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:17:31 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:22:53 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:23:05 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:23:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:24:03 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:24:03 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/todayswheels/public_html/ldn_new_site/includes/classes/news.class.php on line 70
+[06-Mar-2018 07:24:44 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:24:53 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:24:54 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/todayswheels/public_html/ldn_new_site/includes/classes/news.class.php on line 71
+[06-Mar-2018 07:27:31 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:27:46 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:28:14 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:28:28 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:29:07 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:29:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:29:57 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:30:01 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:30:22 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:30:46 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:30:52 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:31:28 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:31:32 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:31:44 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:32:09 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:32:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:32:31 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:33:06 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:33:14 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:33:18 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:33:22 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:33:30 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:33:40 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:33:45 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:33:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:33:53 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[06-Mar-2018 07:33:59 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:38:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:38:27 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:38:39 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:38:45 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:38:57 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:39:03 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:39:21 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:39:35 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:47:40 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:49:36 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:49:39 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:49:42 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:50:21 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:50:23 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:50:26 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:51:13 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:51:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:51:22 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:52:25 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:52:29 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:52:44 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:52:47 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:53:34 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:53:36 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:53:46 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:53:58 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:54:47 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:54:56 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:55:24 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:58:43 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:58:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:58:52 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:59:17 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 06:59:49 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:00:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:05:18 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:05:26 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:07:07 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:08:18 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:08:25 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:09:45 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:10:09 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:10:36 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:12:39 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:12:44 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:12:58 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[07-Mar-2018 07:13:08 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:01:41 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:01:46 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:03:46 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:03:53 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:05:30 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:05:38 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:09:09 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:09:22 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:15:45 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:15:54 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:29:47 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:29:55 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:33:32 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:33:36 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:33:42 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:33:53 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:33:55 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:34:11 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:34:20 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:35:09 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:35:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:35:20 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:35:28 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:35:41 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:35:46 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:36:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:36:22 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:37:38 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:37:43 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:41:44 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:41:52 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:42:34 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:42:41 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:49:24 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:49:27 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:50:40 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:51:36 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:53:22 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:54:20 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:54:58 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:55:37 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:56:05 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:56:39 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 00:57:23 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:04:02 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:04:27 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:04:37 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:05:30 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:06:58 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:14:34 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:14:43 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:17:59 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:18:04 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:18:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:18:32 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:19:48 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:19:53 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:25:32 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:25:41 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:25:41 America/New_York] PHP Warning:  require_once(/home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_news_item.php../../../includes/classes/news.class.php): failed to open stream: No such file or directory in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_news_item.php on line 3
+[08-Mar-2018 01:25:41 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_news_item.php../../../includes/classes/news.class.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_news_item.php on line 3
+[08-Mar-2018 01:26:25 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:26:50 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:27:03 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:28:19 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:30:14 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:31:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:32:49 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:32:54 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:36:26 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:37:04 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:37:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:43:12 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:43:22 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:44:20 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:46:38 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:46:42 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:47:45 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:47:50 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:49:08 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:49:11 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:49:27 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:49:44 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:51:19 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:51:23 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:51:41 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:52:53 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:53:02 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:58:32 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 01:58:44 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:00:05 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:01:08 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:01:56 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:01:56 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 88
+[08-Mar-2018 02:02:17 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:02:28 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:02:28 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 88
+[08-Mar-2018 02:02:56 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:02:56 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 88
+[08-Mar-2018 02:04:45 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:04:57 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:04:57 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 89
+[08-Mar-2018 02:05:59 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:05:59 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 89
+[08-Mar-2018 02:06:21 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:06:21 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 89
+[08-Mar-2018 02:07:11 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:07:11 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 89
+[08-Mar-2018 02:07:58 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:07:58 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 89
+[08-Mar-2018 02:08:05 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:09:04 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:09:17 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:09:17 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 89
+[08-Mar-2018 02:10:17 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:10:17 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 89
+[08-Mar-2018 02:11:27 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:11:33 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:11:33 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 89
+[08-Mar-2018 02:13:55 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:14:05 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:14:05 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 89
+[08-Mar-2018 02:14:41 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:14:50 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:14:50 America/New_York] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/help.class.php on line 89
+[08-Mar-2018 02:17:18 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:17:26 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:17:27 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:17:38 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:17:45 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:18:46 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:18:52 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:19:13 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:19:18 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:19:43 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:19:48 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:20:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:20:59 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:21:02 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[08-Mar-2018 02:21:08 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:18:31 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:18:37 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:18:39 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:18:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:18:57 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:19:03 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:19:08 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:29:18 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:29:18 America/New_York] PHP Warning:  require_once(/home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_help_topic.php../../../includes/classes/help.class.php): failed to open stream: No such file or directory in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_help_topic.php on line 4
+[09-Mar-2018 05:29:18 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_help_topic.php../../../includes/classes/help.class.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_help_topic.php on line 4
+[09-Mar-2018 05:29:33 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:29:33 America/New_York] PHP Warning:  require_once(/home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_help_topic.php../../../includes/classes/help.class.php): failed to open stream: No such file or directory in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_help_topic.php on line 4
+[09-Mar-2018 05:29:33 America/New_York] PHP Fatal error:  require_once(): Failed opening required '/home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_help_topic.php../../../includes/classes/help.class.php' (include_path='.:/opt/cpanel/ea-php54/root/usr/share/pear') in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/delete_help_topic.php on line 4
+[09-Mar-2018 05:30:23 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:30:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:31:54 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:32:34 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:34:17 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:34:28 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:35:09 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 05:36:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:00:47 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:07:31 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:07:35 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:07:42 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:07:42 America/New_York] PHP Fatal error:  Class 'adminUsers' not found in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_admin_user.php on line 5
+[09-Mar-2018 06:07:49 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:07:49 America/New_York] PHP Fatal error:  Class 'adminUsers' not found in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_admin_user.php on line 5
+[09-Mar-2018 06:08:21 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:09:52 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:10:32 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:11:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:12:35 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:12:41 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:13:08 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:13:08 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/adminUsers.class.php on line 91
+[09-Mar-2018 06:16:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:17:27 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:17:37 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:17:37 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/adminUsers.class.php on line 91
+[09-Mar-2018 06:18:00 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:18:44 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:19:00 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:19:00 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/adminUsers.class.php on line 91
+[09-Mar-2018 06:20:04 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:20:49 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:21:50 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:21:50 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/adminUsers.class.php on line 91
+[09-Mar-2018 06:22:29 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:22:29 America/New_York] PHP Fatal error:  Call to a member function query() on a non-object in /home/todayswheels/public_html/ldn_new_site/includes/classes/adminUsers.class.php on line 91
+[09-Mar-2018 06:24:05 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:24:56 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:31:02 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:31:56 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:32:04 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:36:19 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:36:25 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:36:31 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:38:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:38:44 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[09-Mar-2018 06:38:52 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[11-Mar-2018 23:31:24 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:39:43 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:40:37 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:40:59 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:42:44 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:44:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:44:15 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/todayswheels/public_html/ldn_new_site/includes/classes/auctions.class.php on line 246
+[12-Mar-2018 05:44:48 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:44:48 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/todayswheels/public_html/ldn_new_site/includes/classes/auctions.class.php on line 246
+[12-Mar-2018 05:45:43 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:45:43 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/todayswheels/public_html/ldn_new_site/includes/classes/auctions.class.php on line 246
+[12-Mar-2018 05:46:27 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:46:27 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/todayswheels/public_html/ldn_new_site/includes/classes/auctions.class.php on line 247
+[12-Mar-2018 05:48:29 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:48:29 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/todayswheels/public_html/ldn_new_site/includes/classes/auctions.class.php on line 247
+[12-Mar-2018 05:49:17 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:49:30 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:49:48 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:51:43 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:54:45 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:55:06 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:56:09 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:57:08 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:57:31 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 05:57:47 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 06:44:49 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 06:48:49 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 06:50:42 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 06:50:42 America/New_York] PHP Warning:  getimagesize(): Filename cannot be empty in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_auction_info.php on line 39
+[12-Mar-2018 06:51:23 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 06:52:54 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 06:53:29 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 06:54:57 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 06:54:57 America/New_York] PHP Warning:  move_uploaded_file(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_auction_info.php on line 69
+[12-Mar-2018 06:54:57 America/New_York] PHP Warning:  move_uploaded_file(http://67.227.134.122/~todayswheels/ldn_new_site/images/uploaded/auctions/013b070668c851ed86800293107fb936285b0212ce.jpg): failed to open stream: no suitable wrapper could be found in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_auction_info.php on line 69
+[12-Mar-2018 06:54:57 America/New_York] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpzFg6lT' to 'http://67.227.134.122/~todayswheels/ldn_new_site/images/uploaded/auctions/013b070668c851ed86800293107fb936285b0212ce.jpg' in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_auction_info.php on line 69
+[12-Mar-2018 06:58:29 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:01:48 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:01:48 America/New_York] PHP Warning:  rename(013b070668c851ed86800293107fb936285b0212ce.jpg,archive/013b070668c851ed86800293107fb936285b0212ce.jpg): No such file or directory in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_auction_info.php on line 50
+[12-Mar-2018 07:02:28 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:02:28 America/New_York] PHP Warning:  rename(013b070668c851ed86800293107fb936285b0212ce.jpg,archive/013b070668c851ed86800293107fb936285b0212ce.jpg): No such file or directory in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_auction_info.php on line 50
+[12-Mar-2018 07:03:26 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:03:27 America/New_York] PHP Warning:  rename(013b070668c851ed86800293107fb936285b0212ce.jpg,/home/todayswheels/public_html/ldn_new_site/images/uploaded/auctions/archive/013b070668c851ed86800293107fb936285b0212ce.jpg): No such file or directory in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_auction_info.php on line 50
+[12-Mar-2018 07:04:21 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:13:39 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:13:39 America/New_York] PHP Parse error:  syntax error, unexpected '$filenameNoExt' (T_VARIABLE) in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_auction_info.php on line 40
+[12-Mar-2018 07:14:00 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:14:00 America/New_York] PHP Parse error:  syntax error, unexpected '$filenameNoExt' (T_VARIABLE) in /home/todayswheels/public_html/ldn_new_site/admin/includes/ajax/update_auction_info.php on line 40
+[12-Mar-2018 07:14:12 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:14:38 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:15:45 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:16:12 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:17:11 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:17:30 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:20:00 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:21:18 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:21:54 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:22:42 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:31:09 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:32:00 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:33:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:34:33 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:34:50 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:36:13 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:45:11 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:46:17 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:47:12 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:47:38 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:47:54 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:49:15 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:49:38 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 07:50:59 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 13:45:11 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 13:45:16 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 13:45:48 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 13:45:51 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 19:33:36 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
+[12-Mar-2018 20:17:04 America/New_York] PHP Warning:  Module 'gnupg' already loaded in Unknown on line 0
