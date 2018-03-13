@@ -1,7 +1,9 @@
 <?php
 session_start();
 $currSection = "auctions";
-
+if(isset($_SESSION['user']))   // Checking whether the session is already there or not if
+    // true then header redirect it to the home page directly
+{
 require_once("includes/header.php");
 require_once("includes/config.inc.php");
 require_once("../includes/classes/users.class.php");
@@ -10,9 +12,7 @@ $usr = new users();
 $usr->ID = $userID;
 $usr->getUserInfoByID();
 
-if(isset($_SESSION['user']))   // Checking whether the session is already there or not if
-    // true then header redirect it to the home page directly
-{
+
 
 ?>
     <style type="text/css">

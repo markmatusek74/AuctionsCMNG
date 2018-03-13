@@ -27,7 +27,7 @@ $pageName =  basename($_SERVER['PHP_SELF']);
 
 <div class="container theme-showcase" role="main">
     <?php
-    if (($pageName != "index.php") && ($pageName != "logouy.php"))
+    if (($pageName != "index.php") && ($pageName != "logout.php"))
     {
    //     print "current section is: " . $currSection . "<br />";
     ?>
@@ -84,6 +84,7 @@ $pageName =  basename($_SERVER['PHP_SELF']);
                         <li><a href="#">SSL Support</a></li>
                     </ul>
                 </li>
+                <li><a href="logout.php">Logout</a></li>
             </ul>
         </div><!--/.container-fluid -->
     </nav>
