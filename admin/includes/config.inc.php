@@ -1,7 +1,7 @@
 <?php
 
 define("DB_HOST","DB2.ludington.com");
-define("DB_DATABASE","wwwldn_phpauctionpro_beta2017");
+define("DB_DATABASE","wwwldn_phpauctionpro");
 define("DB_USER","wwwldn_ldndb");
 define("DB_PASSWORD","ldn01pass2");
 

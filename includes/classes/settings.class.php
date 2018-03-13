@@ -27,7 +27,7 @@ class settings {
     public  function connnectToDB()
     {
         $mysqli = new mysqli("DB2.ludington.com", "wwwldn_ldndb", "ldn01pass2");
-        $mysqli->select_db("wwwldn_phpauctionpro_beta2017");
+        $mysqli->select_db("wwwldn_phpauctionpro");
         if($mysqli->errno)
         {
             printf("Unable to connect to database:</br /> %s", $mysqli->error);

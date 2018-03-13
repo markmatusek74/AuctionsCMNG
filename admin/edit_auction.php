@@ -2,7 +2,9 @@
 session_start();
 $currSection = "auctions";
 
-
+if(isset($_SESSION['user']))   // Checking whether the session is already there or not if
+    // true then header redirect it to the home page directly
+{
 
 require_once("includes/header.php");
 require_once("includes/config.inc.php");
@@ -13,9 +15,7 @@ $auctionID = $_GET["id"];
 $auc = new auctions();
 $auc->getSingleAuctionInfo($auctionID);
 
-if(isset($_SESSION['user']))   // Checking whether the session is already there or not if
-    // true then header redirect it to the home page directly
-{
+
 
  //   echo "page name: " . basename($_SERVER['PHP_SELF']) . "<br />";
 //print_r($_SERVER);

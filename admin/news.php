@@ -1,6 +1,9 @@
 <?php
 session_start();
 $currSection = "news";
+if(isset($_SESSION['user']))   // Checking whether the session is already there or not if
+    // true then header redirect it to the home page directly
+{
 require_once("includes/header.php");
 require_once("includes/config.inc.php");
 require_once("../includes/classes/Paginator.class.php");
@@ -16,9 +19,7 @@ else
     $news = new news();
 
 }
-if(isset($_SESSION['user']))   // Checking whether the session is already there or not if
-    // true then header redirect it to the home page directly
-{
+
 
     $limit      = ( isset( $_GET['limit'] ) ) ? $_GET['limit'] : 25;
     $page       = ( isset( $_GET['page'] ) ) ? $_GET['page'] : 1;
